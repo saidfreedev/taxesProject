@@ -66,5 +66,11 @@ public class Product {
 
     public void testRebase(){
         System.out.println("first commit");
+        System.out.println("second commit");
+        System.out.println("third commit");
+
+        System.out.println("test 1");
+        System.out.println("test 2");
+
     }
 }
