@@ -63,4 +63,8 @@ public class Product {
     public void setProductCategory(ProductCategory productCategory) {
         this.productCategory = productCategory;
     }
+
+    public void testRebase(){
+        System.out.println("first commit");
+    }
 }
