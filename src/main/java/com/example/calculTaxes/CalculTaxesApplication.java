@@ -47,7 +47,7 @@ public class CalculTaxesApplication  implements CommandLineRunner {
 		invoice3.add(product8);
 		invoice3.add(product9);
 
-		System.out.println("### INPUT");
+		System.out.println("#### INPUT");
 		System.out.println("");
 
 		System.out.println("#### Input 1");
